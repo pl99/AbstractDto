@@ -1,0 +1,1 @@
+AbstractDto class externalizer
